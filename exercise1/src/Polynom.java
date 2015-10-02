@@ -23,7 +23,7 @@ public class Polynom {
      *
      * Ich lösche jetzt einfach die meisten Implementierung der
      * Methoden und flüchte mit dem Schlauchboot, vielleicht finden
-     * sie mich ja nicht....
+     * sie mich ja nicht..
      */
 
     /**
